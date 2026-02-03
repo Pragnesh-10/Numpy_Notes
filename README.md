@@ -6,3 +6,6 @@ while while first video the time zone is from 1 hour 30 minut to 1 hour 56 minut
 
 
 you can watch these two video at 1.25 playback speed if it feels lag
+
+
+<a href = "https://colab.research.google.com/drive/1HywrHdKWmOlxwUiLF8NK_EFYjBzuqy5a?usp=sharing"> My Google Colab Notebook </a>
